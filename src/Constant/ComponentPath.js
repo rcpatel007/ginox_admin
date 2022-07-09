@@ -1,0 +1,16 @@
+export const constants = {
+  LOGOUT: "/logout",
+  LOGIN: "/auth/login",
+  DASHBOARD: "/admin/dashboard",
+  ADD_SECTION: "/admin/add/section",
+  SECTIONS: "/admin/sections",
+  EDIT_SECTION: "/admin/edit/section",
+  HOME: "/admin/home",
+  ABOUT: "/admin/about",
+  FEATURES: "/admin/features",
+  MEDIA_PARTNER: "/admin/media_partner",
+  INVESTOR: "/admin/investors_partners",
+  TOKENOMICS: "/admin/tokenomics",
+  ROADMAP: "/admin/roadmap",
+  TEAM: "/admin/core_team",
+};

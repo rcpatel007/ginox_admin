@@ -1,0 +1,45 @@
+.authentication-bg {
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  .bg-overlay {
+    background-color: #292626;
+  }
+
+  @media (max-width: 991px) {
+    display: none;
+  }
+}
+
+.congrets {
+  color: #404040;
+  font-weight: bold;
+  font-size: large;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.custombtn {
+  background: #4152a2;
+  width: 100px;
+  font-weight: bold;
+  font-size: 18px;
+
+}
+
+.container {
+  background: #fff;
+  padding: 50px 50px 50px 40px;
+  border-radius: 20px;
+  border-width: 20px;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.text {
+  color: #4152a2;
+}
+
